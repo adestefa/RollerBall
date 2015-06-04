@@ -1,5 +1,5 @@
 # RollerBall
-A simple game I created while learning C# and the Unity 3 game engine.
+A simple game I created while learning C# and the Unity 4 game engine.
 
 Use the arrow keys to control the ball. Collect all squares to win.
 
