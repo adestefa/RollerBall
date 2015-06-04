@@ -1,6 +1,8 @@
 # RollerBall
 A simple game I created while learning C# and the Unity 3 game engine.
 
+Use the arrow keys to control the ball. Collect all squares to win.
+
 
 ![alt tag](https://github.com/adestefa/RollerBall/blob/master/screen1.png)
 
